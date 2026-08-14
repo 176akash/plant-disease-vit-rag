@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+timm
+numpy
+Pillow
+matplotlib
+faiss-cpu
+sentence-transformers
+huggingface-hub
+google-genai

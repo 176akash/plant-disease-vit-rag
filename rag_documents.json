@@ -1,0 +1,268 @@
+[
+  {
+    "id": "disease_1",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Apple Scab",
+    "content": "Disease: Apple Scab\nCause: Fungal disease caused by Venturia inaequalis.\nSymptoms: Olive-green to dark lesions can develop on leaves and fruit. Severe infections may cause leaf distortion and premature leaf drop.\nManagement: Remove infected fallen leaves and plant debris. Maintain good orchard sanitation and follow locally recommended disease-management practices.\nPrevention: Use resistant cultivars where available and maintain good sanitation and appropriate irrigation practices.",
+    "class_name": "Apple___Apple_scab"
+  },
+  {
+    "id": "disease_2",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Apple Black Rot",
+    "content": "Disease: Apple Black Rot\nCause: Fungal disease associated with Botryosphaeria obtusa.\nSymptoms: Dark lesions may develop on leaves and fruit, with fruit rot appearing as the disease progresses.\nManagement: Remove infected plant material and maintain orchard sanitation.\nPrevention: Use good sanitation and remove diseased or mummified fruit.",
+    "class_name": "Apple___Black_rot"
+  },
+  {
+    "id": "disease_3",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Apple Cedar Apple Rust",
+    "content": "Disease: Apple Cedar Apple Rust\nCause: Fungal disease caused by Gymnosporangium species.\nSymptoms: Yellow or orange spots can develop on leaves, sometimes followed by tissue damage and premature defoliation.\nManagement: Monitor symptoms and maintain orchard sanitation.\nPrevention: Use resistant cultivars where available and manage nearby alternate hosts when appropriate.",
+    "class_name": "Apple___Cedar_apple_rust"
+  },
+  {
+    "id": "disease_4",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Apple Healthy",
+    "content": "Disease: Apple Healthy\nCause: No disease detected.\nSymptoms: Leaves generally show normal healthy green coloration without characteristic disease lesions.\nManagement: Continue normal plant care and monitoring.\nPrevention: Maintain good sanitation, irrigation and general plant health.",
+    "class_name": "Apple___healthy"
+  },
+  {
+    "id": "disease_5",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Blueberry Healthy",
+    "content": "Disease: Blueberry Healthy\nCause: No disease detected.\nSymptoms: Healthy foliage without characteristic disease symptoms.\nManagement: Continue normal crop management.\nPrevention: Maintain good sanitation, spacing and irrigation practices.",
+    "class_name": "Blueberry___healthy"
+  },
+  {
+    "id": "disease_6",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Cherry Powdery Mildew",
+    "content": "Disease: Cherry Powdery Mildew\nCause: Fungal disease causing powdery fungal growth on plant tissues.\nSymptoms: White powdery growth may appear on leaves and young shoots.\nManagement: Remove severely affected material where appropriate and improve airflow.\nPrevention: Maintain good spacing and avoid excessive humidity around foliage.",
+    "class_name": "Cherry_(including_sour)___Powdery_mildew"
+  },
+  {
+    "id": "disease_7",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Cherry Healthy",
+    "content": "Disease: Cherry Healthy\nCause: No disease detected.\nSymptoms: Healthy foliage without characteristic disease lesions.\nManagement: Continue normal plant care.\nPrevention: Maintain sanitation and adequate airflow.",
+    "class_name": "Cherry_(including_sour)___healthy"
+  },
+  {
+    "id": "disease_8",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Corn Cercospora Leaf Spot / Gray Leaf Spot",
+    "content": "Disease: Corn Cercospora Leaf Spot / Gray Leaf Spot\nCause: Fungal disease associated with Cercospora species.\nSymptoms: Gray to tan rectangular lesions may develop on leaves.\nManagement: Use locally recommended disease-management practices and remove infected debris where appropriate.\nPrevention: Use resistant varieties and maintain good crop sanitation.",
+    "class_name": "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot"
+  },
+  {
+    "id": "disease_9",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Corn Common Rust",
+    "content": "Disease: Corn Common Rust\nCause: Fungal disease caused by Puccinia species.\nSymptoms: Small reddish-brown rust-colored pustules may appear on leaves.\nManagement: Monitor disease development and follow locally recommended practices.\nPrevention: Use resistant cultivars where available.",
+    "class_name": "Corn_(maize)___Common_rust_"
+  },
+  {
+    "id": "disease_10",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Corn Northern Leaf Blight",
+    "content": "Disease: Corn Northern Leaf Blight\nCause: Fungal disease caused by Exserohilum turcicum.\nSymptoms: Long gray-green to tan lesions can develop on leaves.\nManagement: Monitor affected plants and follow locally recommended management practices.\nPrevention: Use resistant varieties and maintain field sanitation.",
+    "class_name": "Corn_(maize)___Northern_Leaf_Blight"
+  },
+  {
+    "id": "disease_11",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Corn Healthy",
+    "content": "Disease: Corn Healthy\nCause: No disease detected.\nSymptoms: Healthy green foliage without characteristic disease lesions.\nManagement: Continue normal crop management.\nPrevention: Maintain field sanitation and appropriate irrigation.",
+    "class_name": "Corn_(maize)___healthy"
+  },
+  {
+    "id": "disease_12",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Grape Black Rot",
+    "content": "Disease: Grape Black Rot\nCause: Fungal disease caused by Guignardia bidwellii.\nSymptoms: Dark leaf lesions and fruit infections may develop.\nManagement: Remove infected plant material and maintain vineyard sanitation.\nPrevention: Remove mummified fruit and infected debris.",
+    "class_name": "Grape___Black_rot"
+  },
+  {
+    "id": "disease_13",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Grape Esca / Black Measles",
+    "content": "Disease: Grape Esca / Black Measles\nCause: Complex fungal disease associated with several wood-infecting fungi.\nSymptoms: Leaf discoloration and dark spotting on fruit may occur.\nManagement: Remove severely affected plant material and follow locally recommended practices.\nPrevention: Maintain vineyard sanitation and minimize opportunities for trunk infections.",
+    "class_name": "Grape___Esca_(Black_Measles)"
+  },
+  {
+    "id": "disease_14",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Grape Leaf Blight",
+    "content": "Disease: Grape Leaf Blight\nCause: Fungal disease associated with Isariopsis-type pathogens.\nSymptoms: Leaf spots and blighted areas can develop on foliage.\nManagement: Remove infected leaves where appropriate and maintain sanitation.\nPrevention: Maintain good airflow and vineyard hygiene.",
+    "class_name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)"
+  },
+  {
+    "id": "disease_15",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Grape Healthy",
+    "content": "Disease: Grape Healthy\nCause: No disease detected.\nSymptoms: Healthy grape foliage without characteristic disease symptoms.\nManagement: Continue normal vineyard management.\nPrevention: Maintain sanitation and adequate airflow.",
+    "class_name": "Grape___healthy"
+  },
+  {
+    "id": "disease_16",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Citrus Greening / Huanglongbing",
+    "content": "Disease: Citrus Greening / Huanglongbing\nCause: Bacterial disease associated with Candidatus Liberibacter species and transmitted by psyllids.\nSymptoms: Leaves may show uneven yellowing and fruit may develop abnormal coloration and quality.\nManagement: Follow local citrus disease-management guidance and manage vectors where appropriate.\nPrevention: Use healthy planting material and follow locally recommended vector-management practices.",
+    "class_name": "Orange___Haunglongbing_(Citrus_greening)"
+  },
+  {
+    "id": "disease_17",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Peach Bacterial Spot",
+    "content": "Disease: Peach Bacterial Spot\nCause: Bacterial disease associated with Xanthomonas species.\nSymptoms: Small dark spots can develop on leaves and fruit.\nManagement: Remove affected material where appropriate and follow local disease-management recommendations.\nPrevention: Use resistant varieties where available and maintain sanitation.",
+    "class_name": "Peach___Bacterial_spot"
+  },
+  {
+    "id": "disease_18",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Peach Healthy",
+    "content": "Disease: Peach Healthy\nCause: No disease detected.\nSymptoms: Healthy foliage without characteristic disease lesions.\nManagement: Continue normal plant care.\nPrevention: Maintain good sanitation and irrigation.",
+    "class_name": "Peach___healthy"
+  },
+  {
+    "id": "disease_19",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Pepper Bacterial Spot",
+    "content": "Disease: Pepper Bacterial Spot\nCause: Bacterial disease associated with Xanthomonas species.\nSymptoms: Small dark lesions can occur on leaves and fruit.\nManagement: Remove infected material where appropriate and follow locally recommended practices.\nPrevention: Use clean planting material and maintain good sanitation.",
+    "class_name": "Pepper,_bell___Bacterial_spot"
+  },
+  {
+    "id": "disease_20",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Pepper Healthy",
+    "content": "Disease: Pepper Healthy\nCause: No disease detected.\nSymptoms: Healthy pepper foliage without characteristic disease lesions.\nManagement: Continue normal crop care.\nPrevention: Maintain sanitation and appropriate irrigation.",
+    "class_name": "Pepper,_bell___healthy"
+  },
+  {
+    "id": "disease_21",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Potato Early Blight",
+    "content": "Disease: Potato Early Blight\nCause: Fungal disease caused by Alternaria species.\nSymptoms: Dark circular lesions with concentric rings may develop on leaves.\nManagement: Remove infected debris and follow locally recommended fungicide and crop-management practices.\nPrevention: Maintain crop rotation and good field sanitation.",
+    "class_name": "Potato___Early_blight"
+  },
+  {
+    "id": "disease_22",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Potato Late Blight",
+    "content": "Disease: Potato Late Blight\nCause: Disease caused by Phytophthora infestans.\nSymptoms: Dark water-soaked lesions can rapidly expand on leaves and stems.\nManagement: Remove infected material where appropriate and follow local disease-management recommendations.\nPrevention: Use healthy seed material and maintain good field sanitation.",
+    "class_name": "Potato___Late_blight"
+  },
+  {
+    "id": "disease_23",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Potato Healthy",
+    "content": "Disease: Potato Healthy\nCause: No disease detected.\nSymptoms: Healthy potato foliage without characteristic disease symptoms.\nManagement: Continue normal crop management.\nPrevention: Use healthy planting material and maintain sanitation.",
+    "class_name": "Potato___healthy"
+  },
+  {
+    "id": "disease_24",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Raspberry Healthy",
+    "content": "Disease: Raspberry Healthy\nCause: No disease detected.\nSymptoms: Healthy foliage without characteristic disease lesions.\nManagement: Continue normal crop care.\nPrevention: Maintain spacing, sanitation and appropriate irrigation.",
+    "class_name": "Raspberry___healthy"
+  },
+  {
+    "id": "disease_25",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Soybean Healthy",
+    "content": "Disease: Soybean Healthy\nCause: No disease detected.\nSymptoms: Healthy soybean foliage without characteristic disease symptoms.\nManagement: Continue normal crop management.\nPrevention: Maintain field sanitation and appropriate irrigation.",
+    "class_name": "Soybean___healthy"
+  },
+  {
+    "id": "disease_26",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Squash Powdery Mildew",
+    "content": "Disease: Squash Powdery Mildew\nCause: Fungal disease associated with powdery mildew fungi.\nSymptoms: White powdery growth may appear on leaves.\nManagement: Remove severely affected leaves where appropriate and improve airflow.\nPrevention: Maintain good spacing and avoid prolonged leaf wetness.",
+    "class_name": "Squash___Powdery_mildew"
+  },
+  {
+    "id": "disease_27",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Strawberry Leaf Scorch",
+    "content": "Disease: Strawberry Leaf Scorch\nCause: Fungal disease associated with Diplocarpon-type pathogens.\nSymptoms: Dark or reddish leaf spots can enlarge and cause scorched-looking foliage.\nManagement: Remove infected leaves where appropriate and maintain field sanitation.\nPrevention: Use good spacing, sanitation and irrigation practices.",
+    "class_name": "Strawberry___Leaf_scorch"
+  },
+  {
+    "id": "disease_28",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Strawberry Healthy",
+    "content": "Disease: Strawberry Healthy\nCause: No disease detected.\nSymptoms: Healthy strawberry foliage without characteristic disease lesions.\nManagement: Continue normal crop care.\nPrevention: Maintain good sanitation and airflow.",
+    "class_name": "Strawberry___healthy"
+  },
+  {
+    "id": "disease_29",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Bacterial Spot",
+    "content": "Disease: Tomato Bacterial Spot\nCause: Bacterial disease associated with Xanthomonas species.\nSymptoms: Small dark spots can occur on leaves, stems and fruit.\nManagement: Remove infected material where appropriate and follow locally recommended practices.\nPrevention: Use clean planting material and maintain sanitation.",
+    "class_name": "Tomato___Bacterial_spot"
+  },
+  {
+    "id": "disease_30",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Early Blight",
+    "content": "Disease: Tomato Early Blight\nCause: Fungal disease associated with Alternaria species.\nSymptoms: Dark lesions with concentric rings can develop on leaves.\nManagement: Remove infected debris and follow locally recommended management practices.\nPrevention: Maintain sanitation and avoid prolonged leaf wetness.",
+    "class_name": "Tomato___Early_blight"
+  },
+  {
+    "id": "disease_31",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Late Blight",
+    "content": "Disease: Tomato Late Blight\nCause: Disease caused by Phytophthora infestans.\nSymptoms: Dark water-soaked lesions can rapidly develop on leaves and stems.\nManagement: Remove affected material where appropriate and follow local disease-management recommendations.\nPrevention: Use healthy planting material and maintain good sanitation.",
+    "class_name": "Tomato___Late_blight"
+  },
+  {
+    "id": "disease_32",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Leaf Mold",
+    "content": "Disease: Tomato Leaf Mold\nCause: Fungal disease caused by Passalora fulva.\nSymptoms: Yellowish leaf spots and mold growth may develop, particularly under humid conditions.\nManagement: Improve ventilation and remove severely affected leaves where appropriate.\nPrevention: Reduce humidity and maintain good airflow.",
+    "class_name": "Tomato___Leaf_Mold"
+  },
+  {
+    "id": "disease_33",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Septoria Leaf Spot",
+    "content": "Disease: Tomato Septoria Leaf Spot\nCause: Fungal disease caused by Septoria lycopersici.\nSymptoms: Small circular leaf spots with dark margins may develop.\nManagement: Remove infected leaves and maintain sanitation.\nPrevention: Avoid overhead irrigation and remove infected debris.",
+    "class_name": "Tomato___Septoria_leaf_spot"
+  },
+  {
+    "id": "disease_34",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Two-Spotted Spider Mite",
+    "content": "Disease: Tomato Two-Spotted Spider Mite\nCause: Damage caused by two-spotted spider mites.\nSymptoms: Fine stippling, discoloration and webbing may occur on leaves.\nManagement: Monitor mite populations and use locally recommended integrated pest-management practices.\nPrevention: Maintain plant health and monitor foliage regularly.",
+    "class_name": "Tomato___Spider_mites Two-spotted_spider_mite"
+  },
+  {
+    "id": "disease_35",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Target Spot",
+    "content": "Disease: Tomato Target Spot\nCause: Fungal disease associated with Corynespora cassiicola.\nSymptoms: Circular brown lesions with concentric rings may develop on leaves and fruit.\nManagement: Remove infected material and maintain good sanitation.\nPrevention: Improve airflow and avoid prolonged leaf wetness.",
+    "class_name": "Tomato___Target_Spot"
+  },
+  {
+    "id": "disease_36",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Yellow Leaf Curl Virus",
+    "content": "Disease: Tomato Yellow Leaf Curl Virus\nCause: Viral disease transmitted primarily by whiteflies.\nSymptoms: Leaf curling, yellowing, stunted growth and reduced fruit development may occur.\nManagement: Manage vectors and follow locally recommended viral-disease practices.\nPrevention: Use healthy planting material and appropriate vector management.",
+    "class_name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+  },
+  {
+    "id": "disease_37",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Mosaic Virus",
+    "content": "Disease: Tomato Mosaic Virus\nCause: Viral disease caused by Tomato mosaic virus.\nSymptoms: Mosaic patterns, leaf distortion and reduced plant growth may occur.\nManagement: Remove infected plants where appropriate and maintain sanitation.\nPrevention: Use clean planting material and disinfect tools.",
+    "class_name": "Tomato___Tomato_mosaic_virus"
+  },
+  {
+    "id": "disease_38",
+    "source": "Project Agricultural Knowledge Base",
+    "title": "Tomato Healthy",
+    "content": "Disease: Tomato Healthy\nCause: No disease detected.\nSymptoms: Healthy tomato foliage without characteristic disease symptoms.\nManagement: Continue normal crop management.\nPrevention: Maintain good sanitation, airflow and irrigation.",
+    "class_name": "Tomato___healthy"
+  }
+]
